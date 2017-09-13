@@ -6,7 +6,7 @@ import time
 import DeviceClient
 import sys
 import json
-import passfail as pf
+import passfailled as pf
 import RPi.GPIO as GPIO
 
 os.system('modprobe w1-gpio')
